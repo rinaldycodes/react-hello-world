@@ -1,0 +1,6 @@
+.person-wrapper {
+    padding: 20px;
+    display: inline-block;
+    border: 1px solid salmon;
+    margin: 20px;
+}
